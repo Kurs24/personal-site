@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #ffcc70;
+}
+
+section {
+  background-color: #fffadd;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+section:nth-child(odd) {
+  background-color: #ffff;
+}
+
+#about p {
+  text-align: justify;
+}
+
+.card {
+  margin-bottom: 1.2rem;
+}
+
+button {
+  background-color: #ffcc70;
+}
+
+footer {
+  background-color: #ffcc70;
+}
